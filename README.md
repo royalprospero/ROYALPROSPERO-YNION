@@ -9,7 +9,7 @@ A bot to automate testnet token swaps on Cosmos-based networks using Union Testn
 ### 1. Clone the repository
    Open your terminal and run the following command to clone the repository:
    ```sh
-   git clone https://github.com/KingTheAnalyst/UnionBOT.git
+   git clone https://github.com/royalprospero/YNION.git
    cd union-swap-bot
  ```
 
